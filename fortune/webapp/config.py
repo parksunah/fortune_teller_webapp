@@ -1,3 +1,3 @@
 class Config:
     SECRET_KEY = 'very-hard-password'
-    FORTUNES_FILEPATH = '/Users/seijinjung/Desktop/fortunes.txt'
+    FORTUNES_FILEPATH = '/Users/sunahpark/Desktop/fortunes.txt'
